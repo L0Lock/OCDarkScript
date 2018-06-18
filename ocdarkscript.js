@@ -20,7 +20,7 @@
 		var link = document.createElement('link');
 		link.id = cssId;
 		link.rel = 'stylesheet';
-		link.type = 'text/css';
+		link.type = 'text/html';
 		link.href = 'https://raw.githubusercontent.com/L0Lock/OCDarkScript/master/ocdark.css';
 		link.media = 'all';
 		head.appendChild(link);
