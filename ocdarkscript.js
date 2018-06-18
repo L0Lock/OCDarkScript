@@ -3,7 +3,7 @@
 // @namespace		https://github.com/L0Lock/OCDarkScript
 // @updateURL		https://raw.githubusercontent.com/L0Lock/OCDarkScript/master/ocdarkscript.js
 // @downloadURL		https://raw.githubusercontent.com/L0Lock/OCDarkScript/master/ocdarkscript.js
-// @version			0.1
+// @version			0.0.1
 // @description		try to take over the world!
 // @author			-L0Lock-
 // @match			https://openclassrooms.com/*
